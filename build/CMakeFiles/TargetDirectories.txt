@@ -1,0 +1,11 @@
+/home/dima/Projects/edu/myExeCommand/build/CMakeFiles/test.dir
+/home/dima/Projects/edu/myExeCommand/build/CMakeFiles/edit_cache.dir
+/home/dima/Projects/edu/myExeCommand/build/CMakeFiles/rebuild_cache.dir
+/home/dima/Projects/edu/myExeCommand/build/build/src/CMakeFiles/MyExCommand.dir
+/home/dima/Projects/edu/myExeCommand/build/build/src/CMakeFiles/test.dir
+/home/dima/Projects/edu/myExeCommand/build/build/src/CMakeFiles/edit_cache.dir
+/home/dima/Projects/edu/myExeCommand/build/build/src/CMakeFiles/rebuild_cache.dir
+/home/dima/Projects/edu/myExeCommand/build/build/test/CMakeFiles/test1.dir
+/home/dima/Projects/edu/myExeCommand/build/build/test/CMakeFiles/test.dir
+/home/dima/Projects/edu/myExeCommand/build/build/test/CMakeFiles/edit_cache.dir
+/home/dima/Projects/edu/myExeCommand/build/build/test/CMakeFiles/rebuild_cache.dir
