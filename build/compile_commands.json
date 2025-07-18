@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/home/dima/Projects/edu/myExeCommand/build/build/src",
+  "command": "/usr/bin/g++  -I/home/dima/Projects/edu/myExeCommand/inc -g -std=gnu++11 -o CMakeFiles/MyExCommand.dir/comandex.cpp.o -c /home/dima/Projects/edu/myExeCommand/src/comandex.cpp",
+  "file": "/home/dima/Projects/edu/myExeCommand/src/comandex.cpp",
+  "output": "build/src/CMakeFiles/MyExCommand.dir/comandex.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/myExeCommand/build/build/src",
+  "command": "/usr/bin/g++  -I/home/dima/Projects/edu/myExeCommand/inc -g -std=gnu++11 -o CMakeFiles/MyExCommand.dir/comandhendlerex.cpp.o -c /home/dima/Projects/edu/myExeCommand/src/comandhendlerex.cpp",
+  "file": "/home/dima/Projects/edu/myExeCommand/src/comandhendlerex.cpp",
+  "output": "build/src/CMakeFiles/MyExCommand.dir/comandhendlerex.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/myExeCommand/build/build/src",
+  "command": "/usr/bin/g++  -I/home/dima/Projects/edu/myExeCommand/inc -g -std=gnu++11 -o CMakeFiles/MyExCommand.dir/comandrepex.cpp.o -c /home/dima/Projects/edu/myExeCommand/src/comandrepex.cpp",
+  "file": "/home/dima/Projects/edu/myExeCommand/src/comandrepex.cpp",
+  "output": "build/src/CMakeFiles/MyExCommand.dir/comandrepex.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/myExeCommand/build/build/src",
+  "command": "/usr/bin/g++  -I/home/dima/Projects/edu/myExeCommand/inc -g -std=gnu++11 -o CMakeFiles/MyExCommand.dir/comandwritelog.cpp.o -c /home/dima/Projects/edu/myExeCommand/src/comandwritelog.cpp",
+  "file": "/home/dima/Projects/edu/myExeCommand/src/comandwritelog.cpp",
+  "output": "build/src/CMakeFiles/MyExCommand.dir/comandwritelog.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/myExeCommand/build/build/src",
+  "command": "/usr/bin/g++  -I/home/dima/Projects/edu/myExeCommand/inc -g -std=gnu++11 -o CMakeFiles/MyExCommand.dir/icomand.cpp.o -c /home/dima/Projects/edu/myExeCommand/src/icomand.cpp",
+  "file": "/home/dima/Projects/edu/myExeCommand/src/icomand.cpp",
+  "output": "build/src/CMakeFiles/MyExCommand.dir/icomand.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/myExeCommand/build/build/src",
+  "command": "/usr/bin/g++  -I/home/dima/Projects/edu/myExeCommand/inc -g -std=gnu++11 -o CMakeFiles/MyExCommand.dir/commandhendlerex2.cpp.o -c /home/dima/Projects/edu/myExeCommand/src/commandhendlerex2.cpp",
+  "file": "/home/dima/Projects/edu/myExeCommand/src/commandhendlerex2.cpp",
+  "output": "build/src/CMakeFiles/MyExCommand.dir/commandhendlerex2.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/myExeCommand/build/build/src",
+  "command": "/usr/bin/g++  -I/home/dima/Projects/edu/myExeCommand/inc -g -std=gnu++11 -o CMakeFiles/MyExCommand.dir/comanndreex2.cpp.o -c /home/dima/Projects/edu/myExeCommand/src/comanndreex2.cpp",
+  "file": "/home/dima/Projects/edu/myExeCommand/src/comanndreex2.cpp",
+  "output": "build/src/CMakeFiles/MyExCommand.dir/comanndreex2.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/myExeCommand/build/build/src",
+  "command": "/usr/bin/g++  -I/home/dima/Projects/edu/myExeCommand/inc -g -std=gnu++11 -o CMakeFiles/MyExCommand.dir/logCntr.cpp.o -c /home/dima/Projects/edu/myExeCommand/src/logCntr.cpp",
+  "file": "/home/dima/Projects/edu/myExeCommand/src/logCntr.cpp",
+  "output": "build/src/CMakeFiles/MyExCommand.dir/logCntr.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/myExeCommand/build/build/test",
+  "command": "/usr/bin/g++ -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_NO_LIB -I/home/dima/Projects/edu/myExeCommand/inc -g -std=gnu++11 -o CMakeFiles/test1.dir/test_1.cpp.o -c /home/dima/Projects/edu/myExeCommand/test/test_1.cpp",
+  "file": "/home/dima/Projects/edu/myExeCommand/test/test_1.cpp",
+  "output": "build/test/CMakeFiles/test1.dir/test_1.cpp.o"
+}
+]

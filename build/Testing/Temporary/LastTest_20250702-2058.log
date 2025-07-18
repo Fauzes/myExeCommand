@@ -1,0 +1,24 @@
+Start testing: Jul 03 00:18 MSK
+----------------------------------------------------------
+1/1 Testing: Test1
+1/1 Test: Test1
+Command: "/home/dima/Projects/edu/myExeCommand/build/bin/test1"
+Directory: /home/dima/Projects/edu/myExeCommand/build/build/test
+"Test1" start time: Jul 03 00:18 MSK
+Output:
+----------------------------------------------------------
+Running 1 test case...
+--------------------------------------------------------------------
+std::exception
+
+[1;32;49m*** No errors detected
+[0;39;49m
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Test1" end time: Jul 03 00:18 MSK
+"Test1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 03 00:18 MSK

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libMyExCommand.a CMakeFiles/MyExCommand.dir/comandex.cpp.o CMakeFiles/MyExCommand.dir/comandhendlerex.cpp.o CMakeFiles/MyExCommand.dir/comandrepex.cpp.o CMakeFiles/MyExCommand.dir/comandwritelog.cpp.o CMakeFiles/MyExCommand.dir/icomand.cpp.o CMakeFiles/MyExCommand.dir/commandhendlerex2.cpp.o CMakeFiles/MyExCommand.dir/comanndreex2.cpp.o CMakeFiles/MyExCommand.dir/logCntr.cpp.o
+/usr/bin/ranlib ../../lib/libMyExCommand.a
